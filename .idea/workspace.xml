@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="492a78bb-5745-4512-b3c1-f5253893c2b6" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../CorrigerPHP/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculateur.php" beforeDir="false" afterPath="$PROJECT_DIR$/calculateur.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +16,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jH1gFnH74bXGr04pMEzmr9ZGkZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -42,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603446313092</updated>
-      <workItem from="1603446314426" duration="4427000" />
+      <workItem from="1603446314426" duration="5693000" />
     </task>
     <servers />
   </component>
